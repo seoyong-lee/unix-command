@@ -1,0 +1,5 @@
+/* 브라우저 기본 여백 제거 */
+html, body {
+  margin: 0;
+  padding: 0;
+}

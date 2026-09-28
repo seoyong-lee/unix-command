@@ -1,0 +1,46 @@
+/* 기본 스타일 초기화 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #fafaf7;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #2f4a3a;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #e6efe8;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+main {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+section {
+  margin-bottom: 32px;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #2f4a3a;
+  color: white;
+}
